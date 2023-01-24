@@ -92,7 +92,7 @@ DOWN COUNTER
 ![downc](https://user-images.githubusercontent.com/119389971/214287700-f27b4923-55b7-44c2-a279-0d2bebe4c412.png)
 
 TIMING DIGRAMS FOR COUNTER
-```
+
 UP COUNTER
 
 ![upc_td](https://user-images.githubusercontent.com/119389971/214287734-1bbb493f-a766-4ec0-b33c-0ada6e226cd4.png)
